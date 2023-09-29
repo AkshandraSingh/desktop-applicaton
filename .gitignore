@@ -1,0 +1,5 @@
+\.vscode
+\.env
+\package-lock.json
+\accountenv
+\node_modules
