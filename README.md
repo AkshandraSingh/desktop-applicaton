@@ -1,5 +1,7 @@
 # Desktop Account Creation Application 🔥
 
+![Electron Logo](https://electronjs.org/images/electron-logo.svg)
+
 Welcome to the Desktop Account Creation Application – a sleek and efficient solution built using Electron.js, Express.js, MongoDB, HTML, and CSS. This application empowers users to effortlessly create accounts while securely storing their information in a MongoDB database.
 
 ## 🔥 Key Features
